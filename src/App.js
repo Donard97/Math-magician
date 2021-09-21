@@ -1,6 +1,6 @@
 import Calculator from './components/calculator';
 
-function App () {
+function App() {
   return (
     <div className="calculatorSection"><Calculator /></div>
   );
