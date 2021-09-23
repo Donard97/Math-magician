@@ -23,6 +23,11 @@ To get a local copy up and running follow these simple example steps.
 - Git
 - GitHub
 
+## Live Demo
+
+ [Live Demo Link](https://donard97.github.io/math-magician/)
+
+
 ### Install
 
 To clone this repo go to "https://github.com/Donard97/math-magician"
