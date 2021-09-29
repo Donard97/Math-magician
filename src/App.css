@@ -32,13 +32,13 @@
   display: flex;
 }
 
-.navbar ul>li {
+.navbar ul > li {
   padding: 5px 10px;
   font-size: 20px;
   border-right: 1px solid white;
 }
 
-.navbar ul>li:last-child {
+.navbar ul > li:last-child {
   border-right: none;
 }
 
