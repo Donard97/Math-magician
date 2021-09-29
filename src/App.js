@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Quote from './pages/Quote';
 import NotMatch from './pages/NotMatch';
+import './App.css';
 
 function App() {
   return (

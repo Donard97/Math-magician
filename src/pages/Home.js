@@ -10,8 +10,6 @@ const Home = () => (
         Math magicians is a website for all fans of mathematics. It is a Single
         Page App (SPA) that allows users to: Make simple calculations. Read a
         random math-related quote.
-      </p>
-      <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos, fugit
         odit molestiae praesepossimus. Veniam, architecto. Labore doloremque
         illo minus odit nulla nesciunt eius omnis, adipisci, possimus
