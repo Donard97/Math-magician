@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
- [Live Demo Link](https://donard97-mathmagician.netlify.app/)
+ [Live Demo Link](https://donard97.github.io/Math-magician/)
 
 
 ### Install
