@@ -26,4 +26,5 @@ const Home = () => (
     </div>
   </Route>
 );
+
 export default Home;
