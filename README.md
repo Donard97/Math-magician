@@ -30,7 +30,8 @@ To get a local copy up and running follow these simple example steps.
 ## Live Demo
 
  [Live Demo Link](https://donard97.github.io/Math-magician/)<br>
- [Second Live Demo Link](https://donard-math-magician.netlify.app/)
+ [Second Live Demo Link](https://donard-math-magician.netlify.app/)<br>
+ [Third Live Demo Link](https://donard-math-magician.netlify.app/)
 
 
 ### Install
